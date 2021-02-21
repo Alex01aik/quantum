@@ -71,7 +71,7 @@ export default {
     margin-top: 140px;
 }
 .carousel{
-    max-width: 600px;
+    max-width: 40vw;
     overflow: hidden;
     margin: 0 auto;
 }
@@ -122,7 +122,7 @@ button:hover{
         width: calc(100% - 80px);
     }
     .carousel{
-        width: 508px;
+        max-width: 66vw;
     }
 }
 @media screen and (max-width: 480px) {

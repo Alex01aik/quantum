@@ -88,6 +88,7 @@ select{
     border: none;
     font-family: 'Museo Sans Cyrl', sans-serif;
     font-size: 15px;
+    cursor: pointer;
 }
 button{
     font-size: 14px;
@@ -123,7 +124,7 @@ details nav{
     flex-direction: column;
     right: 0;
     background: white;
-    margin-top: 24px;
+    margin-top: 28px;
     border-radius:  0  0 30px 30px;
     position: absolute;
 }
