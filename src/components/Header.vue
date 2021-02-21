@@ -123,7 +123,7 @@ details nav{
     flex-direction: column;
     right: 0;
     background: white;
-    margin-top: 28px;
+    margin-top: 24px;
     border-radius:  0  0 30px 30px;
     position: absolute;
 }
