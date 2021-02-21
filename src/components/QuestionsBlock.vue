@@ -37,7 +37,7 @@ export default {
         margin-bottom: 56px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .stepsBlock{
         margin-top: 80px;
         margin-bottom: 80px;

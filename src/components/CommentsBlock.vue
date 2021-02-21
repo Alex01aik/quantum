@@ -71,7 +71,7 @@ export default {
     margin-top: 140px;
 }
 .carousel{
-    width: 600px;
+    max-width: 600px;
     overflow: hidden;
     margin: 0 auto;
 }
@@ -125,7 +125,7 @@ button:hover{
         width: 508px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .stepsBlock{
         margin-top: 80px;
         margin-bottom: 80px;

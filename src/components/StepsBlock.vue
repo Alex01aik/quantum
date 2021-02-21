@@ -45,7 +45,7 @@ export default {
     margin-bottom: 56px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .stepsBlock{
         padding-top: 80px;
     }

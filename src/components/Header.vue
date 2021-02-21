@@ -147,7 +147,7 @@ details summary::-webkit-details-marker {
         margin: 0;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     button{
         display: none;
     }

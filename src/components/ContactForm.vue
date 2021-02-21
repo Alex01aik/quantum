@@ -124,7 +124,7 @@ button{
     margin-bottom: 22px;
     }   
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .contactForm{
         padding: 48px 16px;
         height: auto;

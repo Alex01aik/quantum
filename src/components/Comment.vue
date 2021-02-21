@@ -108,7 +108,7 @@ export default {
         margin-bottom: -70px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .comment{
         margin-top: 0;
         min-width: 280px;  

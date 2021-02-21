@@ -122,10 +122,10 @@
         margin-top: 86px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .mainInfo{
         display: grid;
-        grid-template-rows: 0.8fr 1fr;
+        grid-template-rows: 1fr 1fr;
         grid-template-columns: 1fr;
     }
     .footerNav{
