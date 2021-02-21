@@ -134,7 +134,7 @@ button:hover{
         margin-bottom: 40px;
     }
     .carousel{
-        width: 280px;
+        max-width: 280px;
     }
     .carouselButtons{
         margin-top: 438px;
