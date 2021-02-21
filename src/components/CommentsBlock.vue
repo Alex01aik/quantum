@@ -119,7 +119,7 @@ button:hover{
     .carouselButtons{
         position: absolute;
         margin-top: 207px;
-        width: 90%;
+        width: calc(100% - 80px);
     }
     .carousel{
         width: 508px;
