@@ -85,6 +85,7 @@ export default {
     width: 112px;
     display: flex;
     justify-content: space-between;
+    margin: auto;
 }
 button{
     width: 48px;
