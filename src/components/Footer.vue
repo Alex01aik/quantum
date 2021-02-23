@@ -62,9 +62,6 @@ footer{
 .logo{
     grid-area: l;
 }
-.footerInfo{
-    /* grid-area: s; */
-}
 .footerNav{
     grid-area: r;
 }
