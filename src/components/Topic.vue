@@ -62,7 +62,7 @@ export default {
         max-width: 42ch;
     }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
     .topic{
         text-align: start;
     }
@@ -73,9 +73,7 @@ export default {
     .topSubtitle{
         font-size: 18px;
         line-height: 30px;
-    }  
-}
-@media screen and (max-width: 320px) {
+    } 
     button{
         padding: 20px 0;
         width: 100%;

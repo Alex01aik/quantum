@@ -98,7 +98,7 @@ export default {
         border-radius: 30px 0;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .step{
         margin: 0;
     }

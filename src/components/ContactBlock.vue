@@ -102,7 +102,7 @@ span{
     line-height: 30px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .contactBlock{
         padding: 48px 20px;
     }

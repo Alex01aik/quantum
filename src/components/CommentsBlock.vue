@@ -71,7 +71,7 @@ export default {
     margin-top: 140px;
 }
 .carousel{
-    width: 600px;
+    max-width: 40vw;
     overflow: hidden;
     margin: 0 auto;
 }
@@ -85,6 +85,7 @@ export default {
     width: 112px;
     display: flex;
     justify-content: space-between;
+    margin: auto;
 }
 button{
     width: 48px;
@@ -119,13 +120,13 @@ button:hover{
     .carouselButtons{
         position: absolute;
         margin-top: 207px;
-        width: 90%;
+        width: calc(100% - 80px);
     }
     .carousel{
-        width: 508px;
+        max-width: 66vw;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .stepsBlock{
         margin-top: 80px;
         margin-bottom: 80px;
@@ -134,7 +135,7 @@ button:hover{
         margin-bottom: 40px;
     }
     .carousel{
-        width: 280px;
+        max-width: 280px;
     }
     .carouselButtons{
         margin-top: 438px;

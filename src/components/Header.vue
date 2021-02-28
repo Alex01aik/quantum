@@ -88,6 +88,7 @@ select{
     border: none;
     font-family: 'Museo Sans Cyrl', sans-serif;
     font-size: 15px;
+    cursor: pointer;
 }
 button{
     font-size: 14px;
@@ -147,7 +148,7 @@ details summary::-webkit-details-marker {
         margin: 0;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     button{
         display: none;
     }

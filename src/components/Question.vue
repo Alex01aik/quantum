@@ -56,7 +56,7 @@ details[open] > summary::after{
     color: #4F4F4F;
     max-width: 70ch;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .question{
         padding: 24px 16px;
     }

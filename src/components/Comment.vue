@@ -35,7 +35,7 @@ export default {
 
 <style scoped>
 .comment{
-    min-width: 600px;
+    min-width: 40vw;
 }
 .commentator{
     display: flex;
@@ -88,7 +88,7 @@ export default {
     .comment{
         margin-top: 48px;
         text-align: center;
-        min-width: 508px;  
+        min-width: 66vw;
     }
     .commentator{
         margin: 0 auto;
@@ -108,7 +108,7 @@ export default {
         margin-bottom: -70px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
     .comment{
         margin-top: 0;
         min-width: 280px;  
