@@ -4,12 +4,12 @@
             <a href="#">LOGO</a>
         </div>
         <nav>
-            <a class="navitem" href="#">How it works</a>
+            <a class="navitem" href="#stepsBlock">How it works</a>
             <a class="navitem" href="#">About</a>
             <a class="navitem" href="#">Instruction</a>
             <a class="navitem" href="#">Accounts</a>
             <a class="navitem" href="#">Platforms</a>
-            <a class="navitem" href="#">Contact</a>
+            <a class="navitem" href="#contactBlock">Contact</a>
         </nav>
         <div class="localization">
             <select>
@@ -23,12 +23,12 @@
         class="hidenav">
             <summary class="menu__btn"><span></span></summary>
             <nav>
-                <a class="navitem" href="#">How it works</a>
+                <a class="navitem" href="#stepsBlock">How it works</a>
                 <a class="navitem" href="#">About</a>
                 <a class="navitem" href="#">Instruction</a>
                 <a class="navitem" href="#">Accounts</a>
                 <a class="navitem" href="#">Platforms</a>
-                <a class="navitem" href="#">Contact</a>
+                <a class="navitem" href="#contactBlock">Contact</a>
             </nav>
         </details>
     </header>
@@ -42,8 +42,7 @@ export default {
     },
     data: () => ({
         window: {
-            width: 0,
-            height: 0
+            width: 0
         }
     }),
     mounted() {
@@ -56,7 +55,6 @@ export default {
     methods: {
         handleResize() {
             this.window.width = window.innerWidth;
-            this.window.height = window.innerHeight;
         }
     }
 }

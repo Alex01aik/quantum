@@ -1,5 +1,5 @@
 <template>
-     <div class="stepsBlock container">
+     <div id="stepsBlock" class="container">
             <h2 class="blockTitle">
                 Getting Started Is Fast & Easy
             </h2>
@@ -31,7 +31,7 @@ export default {
 </script>
 
 <style scoped>
-.stepsBlock{
+#stepsBlock{
     padding-top: 140px;
 }
 .blockTitle{

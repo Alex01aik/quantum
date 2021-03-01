@@ -24,6 +24,7 @@ button{
     width: fit-content;
     letter-spacing: 0.03em;
     min-width: 168px;
+    cursor: pointer;
 }
 button:hover{
     background: #7181FC; 

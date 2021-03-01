@@ -1,45 +1,43 @@
 <template>
     <footer class="container">
-        
-            <div class="logo"><a href="#">LOGO</a></div>
-                <div class="footerInfo">
-                    <span class="footerInfoTitle">Information and high risk warning:</span>
-                    <p class="footerInfoBody">
-                        Trading with foreign exchange (FX), contract
-                        for differences (CFDs) and precious metals
-                        carries a high level of risk that may not be
-                        suitable for all investors. Leverage creates
-                        additional risk and loss exposure. Before you
-                        decide to trade foreign exchange or contract
-                        for differences, carefully consider your
-                        investment objectives, experience level, and
-                        risk tolerance.
-                    </p>    
-                </div>
-                <div class="footerInfo">
-                    <span class="footerInfoTitle">Legal disclaimer:</span>
-                    <p class="footerInfoBody">
-                        Forex trading entails significant risks and is not
-                        appropriate for all investors. The possibility of
-                        incurring substantial losses should be taken
-                        into account. It is therefore important to
-                        understand the possible consequences of
-                        investing. Traders should weigh their earning
-                        potential against the risks involved and act
-                        accordingly. Interactive Trade Ltd operating
-                        under brand and using domenLink domain
-                        within the European Economic Area.
-                    </p>
-                </div>
-            <div class="footerNav">
-                <a class="footerLink" href="#">About us</a>
-                <a class="footerLink" href="#">Instructions</a>
-                <a class="footerLink" href="#">Platforms</a>
-                <a class="footerLink" href="#">Contact Us</a>
-                <a class="footerLink" href="#">Sign In</a>
-                <a class="footerLink" href="#">Sign uo for free</a>
-            </div>
-        
+        <div class="logo"><a href="#">LOGO</a></div>
+        <div class="footerInfo">
+            <span class="footerInfoTitle">Information and high risk warning:</span>
+            <p class="footerInfoBody">
+                Trading with foreign exchange (FX), contract
+                for differences (CFDs) and precious metals
+                carries a high level of risk that may not be
+                suitable for all investors. Leverage creates
+                additional risk and loss exposure. Before you
+                decide to trade foreign exchange or contract
+                for differences, carefully consider your
+                investment objectives, experience level, and
+                risk tolerance.
+            </p>    
+        </div>
+        <div class="footerInfo">
+            <span class="footerInfoTitle">Legal disclaimer:</span>
+            <p class="footerInfoBody">
+                Forex trading entails significant risks and is not
+                appropriate for all investors. The possibility of
+                incurring substantial losses should be taken
+                into account. It is therefore important to
+                understand the possible consequences of
+                investing. Traders should weigh their earning
+                potential against the risks involved and act
+                accordingly. Interactive Trade Ltd operating
+                under brand and using domenLink domain
+                within the European Economic Area.
+            </p>
+        </div>
+        <div class="footerNav">
+            <a class="footerLink" href="#">About us</a>
+            <a class="footerLink" href="#">Instructions</a>
+            <a class="footerLink" href="#">Platforms</a>
+            <a class="footerLink" href="#contactBlock">Contact Us</a>
+            <a class="footerLink" href="#">Sign In</a>
+            <a class="footerLink" href="#">Sign up for free</a>
+        </div>
         <div class="documentation">
             <a href="#">Copyright 2020, All Right Reserved</a>
             <a href="#">Terms and Conditions</a>
