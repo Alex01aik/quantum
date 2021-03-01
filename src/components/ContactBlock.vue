@@ -1,5 +1,5 @@
 <template>
-    <div class="contactBlock container">
+    <div id="contactBlock" class="container">
             <div class="contactInfo">
                 <h2 class="blockTitle">
                     Contact us!
@@ -52,7 +52,7 @@ export default {
 </script>
 
 <style scoped>
-.contactBlock{
+#contactBlock{
     padding: 120px;
     background: #F0F0FF;
     display: flex;

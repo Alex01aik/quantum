@@ -46,6 +46,7 @@ details[open] > summary::after{
     justify-content: space-between;
     font-size: 24px;
     line-height: 29px;
+    cursor: pointer;
 }
 .questionDescription{
     margin-top: 24px;
